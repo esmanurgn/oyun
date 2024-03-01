@@ -1,0 +1,2 @@
+# oyun
+bitirme projesi
